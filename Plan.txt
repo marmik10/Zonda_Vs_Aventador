@@ -1,0 +1,9 @@
+1) Building a data pipeline
+
+2) Preprocessing images for Deep learnimg
+
+3) Creating a deep NN classifier
+
+4) Evaluating model Performance
+
+5) Saving the model for deployment
